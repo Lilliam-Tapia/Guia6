@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Guiia6\Guiia6\obj\Debug\Guiia6.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Guiia6\Guiia6\obj\Debug\Guiia6.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Guiia6\Guiia6\bin\Debug\Guiia6.exe.config
+C:\Users\LENOVO\Desktop\Guiia6\Guiia6\bin\Debug\Guiia6.exe
+C:\Users\LENOVO\Desktop\Guiia6\Guiia6\bin\Debug\Guiia6.pdb
+C:\Users\LENOVO\Desktop\Guiia6\Guiia6\obj\Debug\Guiia6.exe
+C:\Users\LENOVO\Desktop\Guiia6\Guiia6\obj\Debug\Guiia6.pdb
